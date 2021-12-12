@@ -1,0 +1,14 @@
+.errorMessage {
+    color: red;
+    font-size: 0.7em;
+}
+
+button {
+    font-size: 0.75em;
+    background-color: #6ba7cf;
+    border: none;
+    color: white;
+    border-radius: 100px;
+    padding: 10px;
+    /* font-family: 'Raleway' !important; */
+}
